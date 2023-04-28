@@ -1,0 +1,44 @@
+.items img { 
+    width: auto;
+    display: block;
+    margin: auto;
+    max-height: 100%;
+    max-width: 100%;
+
+}
+body {
+    background: white;
+    font-family: Georgia;
+
+
+}
+
+.profile {
+    align-items: right;
+}
+
+.country-name {
+    padding: 20px 0px 5px 15px;
+
+}
+.alignment {
+    width: 100%;
+
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+    }
+
+.accordion-button {
+    background-color: white;
+    color: black;
+}
+.accordion{
+    --bs-accordion-active-bg:#F2B79F;
+
+}
+
+.navbar {
+    color:#F2B79F;
+}
